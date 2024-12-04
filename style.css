@@ -4,7 +4,13 @@ body{
 .container{
     width: 30%;
     height: 500px;
-    background-color: white;
+    background-color: black;
     position: relative;
     left: 35%;
+    top: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+
 }
